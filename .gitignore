@@ -1,0 +1,4 @@
+debs/
+.theos
+obj/
+.DS_Store

@@ -1,0 +1,10 @@
+Package: com.irepo.corners
+Name: Corners
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depiction: https://theirepo.com/cydia/depictions/Corners.php
+Description: Full control over the corner radius of the Control Center and Notification Center
+Maintainer: William Vabrinskas <wvabrinskas@gmail.com>
+Author: William Vabrinskas <wvabrinskas@gmail.com>
+Section: Tweaks
